@@ -46,6 +46,7 @@ Reextrai_urls_com_erro.py (executado separadamente)
 ---
 
 🧠 Decisões Técnicas e Curadoria Humana
+
 Diferente de uma abordagem puramente automatizada, este projeto utiliza uma metodologia de IA assistida para garantir resultados acionáveis:
 
 Taxonomia Direcionada: Para superar as limitações de criatividade de modelos genéricos, desenvolvi uma biblioteca própria de palavras-chave de contexto. O modelo busca nessa "biblioteca" os termos que melhor se encaixam no conteúdo lido, garantindo uma categorização fiel ao universo de negócios da 99.
@@ -84,5 +85,6 @@ Resumo do fluxo:
 3. nlp_utils.py aplica análise de tópicos (NLP).
 4. exportador.py exporta os dados processados para Excel com abas temáticas.
 5. Scripts auxiliares (reextrai_urls_com_erro.py e gera_historico_urls_do_excel.py) são executados separadamente conforme necessidade.
+
 
 Consulte cada script para detalhes específicos de parâmetros e funções.
