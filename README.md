@@ -5,6 +5,7 @@ Este projeto automatiza a extração, processamento, análise e exportação de 
 ---
 
 🏗️ Arquitetura da Solução
+
 O projeto é modular, garantindo que cada etapa do processamento seja executada com eficiência e facilidade de manutenção:
 
 1. Orquestração e Extração
@@ -88,3 +89,4 @@ Resumo do fluxo:
 
 
 Consulte cada script para detalhes específicos de parâmetros e funções.
+
